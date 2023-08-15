@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @SpyCDog
-- 🌱 I’m currently learning Python Full-stack Devolpment 
+- 🌱 I’m currently studding Python Full-stack Devolpment at JBA
 
