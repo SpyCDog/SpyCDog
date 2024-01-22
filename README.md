@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @SpyCDog
-- 🌱 I’m currently studding Python Full-stack Devolpment at JBA
+- 👋 Hello world, I’m @SpyCDog,
+- 👨🏻‍💻Full Stack developer
+- | Python | React | Django Rest Framework | JavaScript | SQL | HTML | CSS | 
 
